@@ -1,4 +1,4 @@
-# ETH Daddy 
+# Domain Sale
 
 ## Technology Stack & Tools
 
