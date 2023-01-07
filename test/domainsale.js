@@ -8,7 +8,7 @@ describe('Domains', () => {
   let Domains;
   let deployer, owner1;
 
-  const NAME = 'ETH Daddy';
+  const NAME = 'Domain Sale';
   const SYMBOL = 'ETHD';
 
   beforeEach(async () => {
